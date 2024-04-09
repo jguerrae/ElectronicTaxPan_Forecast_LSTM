@@ -1,7 +1,7 @@
 # Predicting Electronic VAT Collection in Panama
 
 ## Authors
-Juan Camilo Díaz and Jorge Guerra, in collaboration with the Financial Innovation and Macroeconomic Stability in Latin America and the Caribbean (FISLAC) initiative, part of the Inter-American Development Bank (BID).
+Juan Camilo Díaz and Jorge Guerra, members of Sostenibilidad fiscal para América Latina y los países del Caribe  (FISLAC) initiative, part of the Inter-American Development Bank (BID).
 
 ## Description
 This repository presents the project "Predicting Electronic VAT Collection in Panama," a pivotal component of the [Financial Innovation and Macroeconomic Stability in Latin America and the Caribbean (FISLAC) initiative](https://www.fislac.com/), which aims to provide a comprehensive overview of macro-fiscal risks faced by countries in the LAC region. Through an innovative blend of SARIMAX and LSTM models, this study analyzes 1.2 million data points to forecast weekly electronic VAT collections, enhancing fiscal planning and risk management. The project stands out as a testament to the power of combining statistical and deep learning approaches to tackle complex economic forecasting challenges. More about FISLAC can be found at [FISLAC](https://www.fislac.com/) and its [LinkedIn Group](https://www.linkedin.com/groups/12966860/).
