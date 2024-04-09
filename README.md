@@ -21,10 +21,3 @@ This project is licensed under the MIT License, allowing its use, modification, 
 
 ### Contact
 For questions or collaborations, please contact [Jorge Guerra](mailto:ja.guerrae@uniandes.edu.co)
-
-
-## License
-This project is licensed under the MIT License, permitting its use, modification, and distribution under specific terms.
-
-### Contact
-For inquiries or partnership opportunities, please contact [Juan Camilo Díaz](mailto:contact@fislac.com).
